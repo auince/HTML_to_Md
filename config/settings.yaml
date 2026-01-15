@@ -1,0 +1,18 @@
+app:
+  input_dir: "/data1/LCH/Projects/WebsiteDownloader/Website-downloader/langchain-doc.cn"
+  output_dir: "/data1/LCH/Projects/AgentTest/HTML2MD_Agent/data/output"
+  log_level: "INFO"
+
+llm:
+  # 如果使用 DeepSeek，base_url 通常是 https://api.deepseek.com
+  api_base: "https://api.deepseek.com"
+  model_name: "deepseek-chat"
+  temperature: 0.1
+  max_tokens: 8192 
+  api_key: "sk-fa3759a0e3d145428b25781d5678cb06" # 请替换为你的实际 API Key
+processing:
+  # 支持的网页后缀
+  supported_extensions: [".html", ".htm"]
+  # 是否在处理完后移动原文件到 archive (可选功能)
+  archive_processed: false
+  max_workers: 30 # 最大处理网页的线程数，deepseek 模型本身无限制，这里设为30.

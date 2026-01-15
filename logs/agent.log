@@ -1,0 +1,16 @@
+15:56:01 - [INFO] - === HTML to Markdown Agent 启动 ===
+15:56:01 - [INFO] - 输入目录: /data1/LCH/Projects/WebsiteDownloader/Website-downloader/langchain-doc.cn
+15:56:01 - [INFO] - 输出目录: /data1/LCH/Projects/AgentTest/HTML2MD_Agent/data/output
+15:56:01 - [INFO] - 使用模型: deepseek-chat
+16:00:24 - [INFO] - === HTML to Markdown Agent 启动 ===
+16:00:24 - [INFO] - 输入目录: /data1/LCH/Projects/WebsiteDownloader/Website-downloader/langchain-doc.cn
+16:00:24 - [INFO] - 输出目录: /data1/LCH/Projects/AgentTest/HTML2MD_Agent/data/output
+16:00:24 - [INFO] - 使用模型: deepseek-chat
+16:18:00 - [INFO] - === HTML to Markdown Agent 启动 ===
+16:18:00 - [INFO] - 输入目录: /data1/LCH/Projects/WebsiteDownloader/Website-downloader/langchain-doc.cn
+16:18:00 - [INFO] - 输出目录: /data1/LCH/Projects/AgentTest/HTML2MD_Agent/data/output
+16:18:00 - [INFO] - 使用模型: deepseek-chat
+16:39:22 - [INFO] - === HTML to Markdown Agent 启动 ===
+16:39:22 - [INFO] - 输入目录: /data1/LCH/Projects/WebsiteDownloader/Website-downloader/langchain-doc.cn
+16:39:22 - [INFO] - 输出目录: /data1/LCH/Projects/AgentTest/HTML2MD_Agent/data/output
+16:39:22 - [INFO] - 使用模型: deepseek-chat
