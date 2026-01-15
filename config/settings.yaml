@@ -1,6 +1,6 @@
 app:
-  input_dir: "/data1/LCH/Projects/WebsiteDownloader/Website-downloader/langchain-doc.cn"
-  output_dir: "/data1/LCH/Projects/AgentTest/HTML2MD_Agent/data/output"
+  input_dir: "input dir"
+  output_dir: "output dir"
   log_level: "INFO"
 
 llm:
@@ -9,7 +9,7 @@ llm:
   model_name: "deepseek-chat"
   temperature: 0.1
   max_tokens: 8192 
-  api_key: "sk-fa3759a0e3d145428b25781d5678cb06" # 请替换为你的实际 API Key
+  api_key: "sk-xxx" # 请替换为你的实际 API Key
 processing:
   # 支持的网页后缀
   supported_extensions: [".html", ".htm"]
